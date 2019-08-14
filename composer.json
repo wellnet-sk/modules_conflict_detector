@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/modules_conflict_detector",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Check if you don't have any conflicts in rewrites between installed modules.",
+    "authors": [
+    {
+        "name": "Marcin Frymark",
+        "email": "contact@alekseon.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
