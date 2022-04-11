@@ -1,1 +1,3 @@
-
+app/code/community/Alekseon/ModulesConflictDetector/ app/code/community/Alekseon/ModulesConflictDetector/
+app/design/adminhtml/default/default/template/alekseon/modulesConflictDetector/explanations.phtml app/design/adminhtml/default/default/template/alekseon/modulesConflictDetector/explanations.phtml
+app/etc/modules/Alekseon_ModulesConflictDetector.xml app/etc/modules/Alekseon_ModulesConflictDetector.xml
