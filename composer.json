@@ -1,5 +1,5 @@
 {
-    "name": "openmage-module-fostering\/modules_conflict_detector",
+    "name": "wellnet-sk/modules_conflict_detector",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
@@ -11,7 +11,7 @@
         }
     ],
     "suggest": {
-        "magento-hackathon\/magento-composer-installer": "*"
+        "magento-hackathon/magento-composer-installer": "*"
     },
     "keywords": [
         "openmage-module"
